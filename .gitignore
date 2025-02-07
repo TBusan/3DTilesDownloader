@@ -74,6 +74,8 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+down3dtiles/downloaded_tiles/Data
+
 # PyBuilder
 .pybuilder/
 target/
